@@ -3,11 +3,11 @@ Train Ticket Booking API  This repository contains a RESTful API for booking tra
 
 Features:
 
-Purchase Ticket: Submit a purchase request for a train ticket, including user details and payment.
-Receipt Details: Retrieve details of the purchased ticket receipt, including from/to destinations, user information, and price paid.
-View Users by Section: View the users and seats allocated in the requested section of the train (Section A or Section B).
-Remove User: Remove a user from the train booking by providing their email address.
-Modify User's Seat: Modify a user's seat allocation by providing their email address and the new seat number.
+* Purchase Ticket: Submit a purchase request for a train ticket, including user details and payment.
+* Receipt Details: Retrieve details of the purchased ticket receipt, including from/to destinations, user information, and price paid.
+* View Users by Section: View the users and seats allocated in the requested section of the train (Section A or Section B).
+* Remove User: Remove a user from the train booking by providing their email address.
+* Modify User's Seat: Modify a user's seat allocation by providing their email address and the new seat number.
 
 
 Technologies Used:
