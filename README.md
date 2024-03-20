@@ -20,7 +20,8 @@ Maven for dependency management and building the project.
 Swagger URL
 http://localhost:8080/swagger
 
-![image](https://github.com/RaghuRam77/Train-Ticket-Booking/assets/64365636/d2b39938-0502-4b06-b907-08157301a31b)
+![image](https://github.com/RaghuRam77/Train-Ticket-Booking/assets/64365636/802c53d8-7d28-42a6-8a61-3c118a2dd061)
+
 
 
 
