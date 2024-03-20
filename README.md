@@ -12,10 +12,10 @@ Features:
 
 Technologies Used:
 
-Java with Quarkus framework for building the RESTful API.
-JAX-RS for defining endpoints and handling requests.
-Mockito for unit testing API methods.
-Maven for dependency management and building the project.
+* Java with Quarkus framework for building the RESTful API.
+* JAX-RS for defining endpoints and handling requests.
+* Mockito for unit testing API methods.
+* Maven for dependency management and building the project.
 
 Swagger URL
 http://localhost:8080/swagger
